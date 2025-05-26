@@ -1,0 +1,13 @@
+## Summary:
+
+*   Release date potentially pushed back by two weeks.
+*   Login bug is being debugged and should be fixed by Friday.
+*   Demo is scheduled for Tuesday.
+*   Dry run for demo is scheduled for Monday afternoon.
+*   Feedback on dashboard mockups requested by end of day.
+
+## Action Items:
+
+*   John: Check with QA about release delay by Today
+*   Priya: Fix login bug by Friday
+*   [Unspecified]: Send feedback on dashboard mockups by Today
